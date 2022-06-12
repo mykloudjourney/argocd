@@ -1,0 +1,3 @@
+- Create ArgoCD project
+- Connet to Git Reposigtory
+- Create ArgoCD Apps to deploy guestbook application
